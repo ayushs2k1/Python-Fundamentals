@@ -1,3 +1,3 @@
 # Contents
 - Strings
-- Lists and Dictionaries
+- Lists, Dictionaries and Tuples
